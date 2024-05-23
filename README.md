@@ -1,6 +1,6 @@
 <h1>Wide Coverage</h1>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="http://rodolfomori.com.br/devclub">Dev Club</h2>
+<h2>Esse foi um projeto que eu aprendi no <a href="http://rodolfomori.com.br/devclub">Dev Club </a> </h2>
 <br>
 <p>Feito com: </p> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
